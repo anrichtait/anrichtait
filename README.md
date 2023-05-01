@@ -5,9 +5,3 @@
 # Current Projects:
 * Scripts - A collection of scripts I have written that make my everyday life/tasks easier. Some are just there because.
 * Neovim and GNU emacs configs - I don't use emacs often anymore but it's there. 
----
-# My setup:
-## Operating system: Arch Linux
-## Window Manager: I3
-## Languages: C, Python, Lua
-## Editor: Neovim + Emacs
