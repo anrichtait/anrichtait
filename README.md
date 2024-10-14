@@ -1,7 +1,7 @@
 **Hi there!**  
 
 I'm Anrich Tait, _a.k.a_ toon.  
-You can find more about me on my [blog](https://anrichtait.github.io/)  
+You can find more about me on my [blog](https://anrichtait.github.io/) or on [steam](https://steamcommunity.com/id/fuckingtoon/).
 
 ✍️ I currently do freelance writing work as my day job.  
 👨‍💻 I'm currently learning Rust / Game Development / Computer Science  
